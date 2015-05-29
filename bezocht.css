@@ -1,0 +1,41 @@
+body{
+	width: 100%;
+	margin: 5em auto 0em auto;
+	font-family: 'Rock Salt', cursive;
+	background-image: url("bord.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: white;
+}
+.kader{
+	width: 100%;
+	margin: 2em auto 0em auto;
+}
+img{
+	width: 13%;
+	margin: 10em auto 0em 10%;
+	cursor: pointer;
+	float: left;
+}
+h1{
+	text-align: center;
+	font-size: 4em;
+}
+.onzichtbaar{
+	display: none;
+}
+h2{
+	margin-top: 3em;
+	font-size: 2.5em;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+.hoofdstuk{
+	width: 13%;
+	height: 19em;
+ 	margin: 10em auto 0em 10%;
+ 	float: left;
+ 	text-align: center;
+}
